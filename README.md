@@ -1,2 +1,2 @@
 # EjercicioMinTic
-Ejercico de prueba
+Ejercicio de prueba
